@@ -1,7 +1,7 @@
 {
-  "name": "pxt-sample",
-  "version": "2.0.2",
-  "description": "sample target for PXT",
+  "name": "pxt-duinopeak",
+  "version": "0.0.1",
+  "description": "Duinopeak target for PXT",
   "keywords": [
     "JavaScript",
     "education",
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Microsoft/pxt-sample.git"
+    "url": "git+https://github.com/duinopeak/pxt-duinopeak.git"
   },
   "author": "",
   "license": "MIT",
