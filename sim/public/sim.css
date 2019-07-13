@@ -3,7 +3,7 @@ svg {
 }
 
 .sprite {
-    fill:yellow;
+    fill:rgb(0, 128, 255);
     stroke:#ccc;
     stroke-width: 3px;
 }
