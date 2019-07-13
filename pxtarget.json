@@ -1,7 +1,7 @@
 {
-    "id": "sample",
-    "name": "sample",
-    "title": "MakeCode Editor Sample",
+    "id": "duinopeak",
+    "name": "duinopeak",
+    "title": "MakeCode Editor for Duinopeak",
     "corepkg": "core",
     "cloud": {
         "workspace": false,
